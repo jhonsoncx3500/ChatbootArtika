@@ -1,0 +1,239 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008427490@s.whatsapp.net',
+    fromMe: false,
+    id: '3F30EBFF89438188DAB4',
+    participant: undefined
+  },
+  messageTimestamp: 1735855872,
+  pushName: 'Connectbox',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'solamente',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'solamente',
+  from: '573008427490'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008427490@s.whatsapp.net',
+    fromMe: false,
+    id: '3F4272ACCBC4A2EC26B7',
+    participant: undefined
+  },
+  messageTimestamp: 1735855902,
+  pushName: 'Connectbox',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'solamente',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'solamente',
+  from: '573008427490'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008427490@s.whatsapp.net',
+    fromMe: false,
+    id: '3F46E6E57DF3553D057F',
+    participant: undefined
+  },
+  messageTimestamp: 1735855905,
+  pushName: 'Connectbox',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'que mas', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que mas',
+  from: '573008427490'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_963a1437-822d-4fca-83fe-d39ae0225fac',
+  keyword: 'key_294ab196-8a2e-4aa0-bad9-d88c63b4c4ca',
+  answer: '🙌 Bienvenido hidratarte con ARTIKA ! 😍 Programa ya tu pedido para el día de HOY.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5bab0f8c047dbf335dc81b372d607385'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e5c8f4ed-e37e-486a-b6cb-8aaf8a9882df',
+  keyword: 'ans_963a1437-822d-4fca-83fe-d39ae0225fac',
+  answer: 'Desea Programar tu Pedido el dia de Hoy\n' +
+    'Escribe "Pedir" - Para Programar Pedido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '54cd2bc50fd191a16d8beae92abfc2b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008427490@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB2B6611FE56DC6F750',
+    participant: undefined
+  },
+  messageTimestamp: 1735855920,
+  pushName: 'Connectbox',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'pedido.', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pedido.',
+  from: '573008427490'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008427490@s.whatsapp.net',
+    fromMe: false,
+    id: '3F342DE07C9307D11EDB',
+    participant: undefined
+  },
+  messageTimestamp: 1735855948,
+  pushName: 'Connectbox',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'buenas tardes',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'buenas tardes',
+  from: '573008427490'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_963a1437-822d-4fca-83fe-d39ae0225fac',
+  keyword: 'key_294ab196-8a2e-4aa0-bad9-d88c63b4c4ca',
+  answer: '🙌 Bienvenido hidratarte con ARTIKA ! 😍 Programa ya tu pedido para el día de HOY.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5bab0f8c047dbf335dc81b372d607385'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e5c8f4ed-e37e-486a-b6cb-8aaf8a9882df',
+  keyword: 'ans_963a1437-822d-4fca-83fe-d39ae0225fac',
+  answer: 'Desea Programar tu Pedido el dia de Hoy\n' +
+    'Escribe "Pedir" - Para Programar Pedido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '54cd2bc50fd191a16d8beae92abfc2b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573008427490@s.whatsapp.net',
+    fromMe: false,
+    id: '3F6D5D7B6AA5B572F5D4',
+    participant: undefined
+  },
+  messageTimestamp: 1735855970,
+  pushName: 'Connectbox',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'pedir', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pedir',
+  from: '573008427490'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_030b8bd6-5fb7-4c2d-bb6e-f811d863d7bb',
+  keyword: 'key_6d0c287e-9ca5-4bfa-8498-c8197ba8a5f6',
+  answer: 'Claro que te interesa?\nmejor te envio audio..',
+  options: {
+    media: 'C:\\Users\\CEO\\base-baileys-memory/Sonidos/saludos.mp3',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1607f9189ad082abcb3e7704071da7e5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f345b4de-6825-4c84-97df-4295ad100a76',
+  keyword: 'ans_030b8bd6-5fb7-4c2d-bb6e-f811d863d7bb',
+  answer: '¿Cual es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9ffa3a71c308e2d00b864d74708fabdd'
+}
